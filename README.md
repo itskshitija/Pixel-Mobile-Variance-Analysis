@@ -1,5 +1,7 @@
 # Pixel Mobile Case Study: Variance Analysis  
 
+# For the comprehensive overview of the project, please consider accessing [file](https://docs.google.com/spreadsheets/d/1LfNkXNxQdUbBkY8S2Umj_gvQxxmVdfgPPMLsIdCUhxw/edit?gid=186228482#gid=186228482)
+
 ## 📋 Introduction  
 Pixel Mobile, a mobile manufacturing giant, aimed to revolutionize the market with its Pixel Moon models: **Mini**, **Max**, and **Pro**. In 2023, management outlined clear production targets and allocated budgets by region, factory, and model.  
 
