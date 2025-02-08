@@ -56,7 +56,7 @@ Here’s a snapshot of overall performance:
 
 1. **Model:** The best performing model for us regarding production variance is "PRO". It has a lesser quantity production variance as compared to other two models.
 
-2.**Region:** The best-performing region for us regarding production variance is "South". However all the regions had lower production than their budgeted production quantities.
+2. **Region:** The best-performing region for us regarding production variance is "South". However all the regions had lower production than their budgeted production quantities.
 
 3. **Quarter:** In "Q4", the company has positive production variance and in all other three quarters the variance is negative.
 
