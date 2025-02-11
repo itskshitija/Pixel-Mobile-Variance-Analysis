@@ -67,7 +67,7 @@ We used the rules listed above or utilize the provided script to extract and cle
 - **Factory Code**: `F003S`
 - **Product Model**: `MAX`
 
-## 📊Exploratory Data Analysis
+## 📍Exploratory Data Analysis
 
 ### Month-wise Variance Report
 This table presents the month-wise comparison of budgeted quantities against actual quantities, along with the variance.
@@ -245,10 +245,10 @@ This table outlines the percentage variance for each model in different regions.
   - The **South** region's variance is comparatively lower, except for the MINI model, which showed a notable gap.  
 
 
-## Dashboard
+## 📊Dashboard
 ![image](https://github.com/user-attachments/assets/c4296d77-724d-4031-b27f-e9059e24818d)
 
-## Summary of Insights
+## 🚀Summary of Insights
 **Model:** The best performing model for us in terms of production variance is "PRO". It has lesser quantity production variance as compare to other two models.
 
 **Region:** The best-performing region for us in terms of production variance is "South". Though all the region had lower production than their budgeted production quantities.
